@@ -1,0 +1,13 @@
+a;a;a;a;;a;a;a;13070-028;ÿÿ;;qwe;qwe;
+fabio;26721993880;123;123;;123;123;123;123;ÿÿ;;eu@eu.com.br;nada;
+Fabio;Pereira;26721993880;das;;batatas,;333;291;123;ÿÿ;;qwe;qwe;
+a;26721993880;123;123;123;123;123;SP;13070028;ÿÿ;;eu@eu.com.br;nenhuma;
+Maria;2672993880;123;123;123;chapadao;campinas;SP;13070100;;;maria@velho.com.br;diabetes;
+123;123;123;123;123;123;123;123;123;ÿÿ;;qwe;qwe;
+Fabio;26721993880;123;123;123;123;123;13070000;;ÿÿ;;eu@eu.com.br;nenhuma;
+a;26721993880;123;123;123;123;123;SP;12345678;;pR©âþ;fabio@gmail.com;nenhuma;
+Fabio;26721993880;123;123;123;123;123;SP;13070028;;;fabio@gmail.com;nenhum;
+a;26721993880;123;123;123;123;123;SP;13070028;;;fabio@mail.com;nenhum;
+a;26721993880;123;123;123;123;123;SP;13070028;;;fabio@gmail.com;nenhum;
+a;26721993880;123;123;123;123;123;SP;13070028;;;fabio@gmail.com;nenhum;
+a;26721993880;123;123;123;123;123;SP;13070028;;;fabio@gmail.com;\nah;

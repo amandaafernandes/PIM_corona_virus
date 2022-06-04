@@ -1,0 +1,6 @@
+*.o
+*.dSYM
+.DS_Store
+menu
+prgcovid
+prgcovid.exe

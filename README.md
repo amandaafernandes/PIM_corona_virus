@@ -1,5 +1,5 @@
-# pinu-corona-virus
-PINU - programa em C sobre o corona virus
+# Unip-2020-corona-virus
+programa em C sobre o corona virus
 
 
 # CONTEXTUALIZAÇÃO DO CASO
